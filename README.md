@@ -1,1 +1,1 @@
-task zero
+shell permissions
